@@ -10,7 +10,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/90c9d0f1-6772-47a9-bc5e-5a68e039adeb/deploy-status)](https://app.netlify.com/sites/gatsby-site-example/deploys)
 
-### Demo Website
+## Demo Website
 - 👉 Netlify : [https://gatsby-ex-p-v1.app](https://gatsby-site-example.netlify.app/)
 
 
